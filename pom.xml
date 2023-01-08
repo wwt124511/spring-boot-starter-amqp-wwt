@@ -7,7 +7,7 @@
     <groupId>com.wwt.rabbitmq.amqp</groupId>
     <artifactId>spring-boot-starter-amqp-wwt</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <description>Starter for wwt using Spring AMQP and Rabbit MQ</description>
+    <description>王文涛的Starter  实现Springboot2.7.7组件：Spring AMQP和Rabbit MQ集成</description>
 
     <dependencies>
         <dependency>
